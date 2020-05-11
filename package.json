@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-solid-clean-arquitecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo Diniz <gustavodnz035@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.2"
+  }
+}
