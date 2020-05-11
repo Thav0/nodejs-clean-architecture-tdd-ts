@@ -5,6 +5,7 @@
   "author": "Gustavo Diniz <gustavodnz035@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^25.2.1",
     "@types/node": "^13.13.5",
     "@typescript-eslint/eslint-plugin": "2",
     "eslint": "6",
@@ -15,7 +16,12 @@
     "eslint-plugin-standard": "4",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
+    "jest": "^26.0.1",
     "lint-staged": "^10.2.2",
+    "ts-jest": "^25.5.1",
     "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
